@@ -16,7 +16,7 @@ awscli = "^1.29.25"
 beautifulsoup4 = "^4.12.2"
 click = "^8.1.6"
 pyyaml = "3.12"
-sqlalchemy = "1.1.11"
+sqlalchemy = "2.0.25"
 
 
 [build-system]
